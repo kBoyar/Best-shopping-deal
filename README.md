@@ -26,7 +26,7 @@ Milk,7,$1.25 <br />
 Eggs,40,$0.78 <br />
 
 Candy,4,$0.51 <br />
-
+<br />
  
 
 Electronics R Here <br />
@@ -38,7 +38,7 @@ Bargain Phone,2,$200.00 <br />
 S Phone,4,$650.00 <br />
 
 Fruit Phone,2,$700.00 <br />
-
+<br />
  
 
 Corner Store <br />
@@ -54,7 +54,7 @@ Candy,6,$1.00 <br />
 Soda,5,$1.56 <br />
 
 Bargain Phone,3,$185.00 <br />
-
+<br />
  
 
 Sparty's <br />
